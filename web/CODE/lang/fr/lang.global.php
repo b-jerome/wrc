@@ -1,0 +1,70 @@
+<?php
+
+//functions.php
+define('LANG_dataok', "DonnÃ©es charger correctement !");
+define('LANG_datanotok',"Mauvaise donnÃ©es dans");
+define('LANG_impossible', "Impossible d'ouvrir"); 
+define('LANG_impossiblee', "Impossible d'Ã©crire dans");
+define('LANG_impossibler', "Impossible de lire");
+define('LANG_connect', "La connection au controlleur arduino a Ã©chouer");
+define('LANG_nodata', "Aucune donnÃ©e dans");
+define('LANG_writeend', "Ecriture terminÃ©");
+define('LANG_perms', "n'est pas accessible en Ã©criture... VÃ©rifier les permissions d'Ã©criture du fichier");
+
+//controller.php
+define('LANG_max' , "MAX");
+define('LANG_min' , "MIN");
+define('LANG_al' , "Alarm");
+define('LANG_al2_on' , "Alarm capteur 2 ON");
+define('LANG_al2_off' , "Alarm capteur 2 OFF");
+define('LANG_al_on' , "Alarm capteur 1 ON");
+define('LANG_al_off' , "Alarm capteur 1 OFF");
+define('LANG_ac_off' , "Nuage auto OFF");
+define('LANG_as_off' , "Orage auto OFF");
+define('LANG_ac_on' , "Nuage auto ON");
+define('LANG_as_on' , "Orage auto ON");
+define('LANG_restart' , "Restart");
+define('LANG_asc_title' , "Eclairage");
+define('LANG_state' , "ETAT");
+define('LANG_vitesse' , "VITESSE");
+define('LANG_angle' , "ANGLE");
+define('LANG_oscillo_title' , "Oscillateurs");
+define('LANG_other_title' , "Autre");
+define('LANG_svo_on' , "Oscillo 1 ON");
+define('LANG_svo_off' , "Oscillo 1 OFF");
+define('LANG_svo2_on' , "Oscillo 2 ON");
+define('LANG_svo2_off' , "Oscillo 2 OFF");
+define('LANG_sim_c_on' , "Simuler nuage ON");
+define('LANG_dashboard', "Dashboard");
+define('LANG_light', "Eclairage");
+define('LANG_opts', "Options");
+define('LANG_datec', "DATE DU CONTROLLEUR");
+define('LANG_tempb', "Température du bac");
+define('LANG_tempp', "Température de la pièce");
+define('LANG_color', "Couleur");
+define('LANG_dur', "durée");
+define('LANG_pui', "Puissance");
+define('LANG_start', "Demarrage");
+define('LANG_blue', "Bleu royal");
+define('LANG_white', "Blanc");
+define('LANG_hyb', "Hybrid");
+define('LANG_red', "Rouge");
+define('LANG_green', "Vert");
+define('LANG_uv', "UV");
+define('LANG_sim_c_on' , "Simuler nuage ON");
+define('LANG_sim_c_off', "Simuler nuage OFF");
+define('LANG_sim_or_on', "Simuler orage ON");
+define('LANG_sim_or_off', "Simuler orage OFF");
+define('LANG_man_on', "Mode manuel ON");
+define('LANG_man_off', "Mode manuel OFF");
+define('LANG_tcloud', "Passage nuageux");
+define('LANG_tstorm', "Orage");
+define('LANG_min', "minutes");
+define('LANG_dmin', "Durée en minutes");
+define('LANG_saison', "Saison");
+define('LANG_temp', "Températures");
+define('LANG_aqua', "Aquarium");
+define('LANG_piece', "Piece");
+define('LANG_to', "à");
+define('LANG_de', "De");
+?>
