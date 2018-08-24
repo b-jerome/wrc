@@ -1,0 +1,11 @@
+DirectoryIndex controller.php
+Options +FollowSymLinks 
+IndexOrderDefault  Ascending  Name 
+
+<IfModule mod_rewrite.c>
+  
+  RewriteEngine on
+  RewriteBase /
+  
+</IfModule>
+
