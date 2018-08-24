@@ -1,5 +1,5 @@
 # wrc
-WRC Arduino Web Reef Controller
+WRC Arduino Web Reef Controller (Porject closed!)
 
 This code allows you to control HIGH POWER LEDS via a web interface. So you can control the LEDs via Computer, iPhone, iPad, etc ... 
 
